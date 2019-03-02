@@ -1,6 +1,6 @@
 # Learning_in_the_brain
 
-## Guiding questions: 
+## Motivating questions: 
 1. What type of learning processes occur in the brain and can they all be characterised as 'optimisation'?
 2. Can all learning processes be classified as either equilibrium or non-equilibrium processes? 
 3. What is the potential role and limitation of gradient-based backpropagation in the human brain? 
