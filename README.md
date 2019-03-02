@@ -12,6 +12,7 @@
 
 ## A tentative list of 10 papers to get started: 
 1. Optimal isn’t good enough. Gerald E. Loeb. 2012. 
+2. Reinforcement learning: The Good, The Bad and The Ugly. P. Dayan & Y. Niv. 2008. 
 2. The Physical Systems Behind Optimization Algorithms. Lin F. Yang, R. Arora, V. Braverman, & Tuo Zhao. 2016.
 3. Towards an Integration of Deep Learning and Neuroscience. A. Marblestone, G. Wayne & K. Kording. 2016.
 4. (references you recommend)
